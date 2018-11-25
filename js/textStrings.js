@@ -923,4 +923,3 @@ var textStrings_JP = {
 };
 
 var textStrings = textStrings_FR
-var language = "FR"
