@@ -53,10 +53,10 @@ var textStrings_FR = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "Temps de jeu: 5 minutes" ,
-    "warning"            : "Attention: le programme contient des scènes de dénigrement, de violence verbale et physique et notamment, de meurtres de masse.\n ce programme s'adresse à un public averti." ,
+    "warning"            : "Attention: Scènes de dénigrement et violence.\n Ce programme s'adresse à un public averti." ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINTEZ & CLIQUEZ" ,
+    "pointAndClick"      : "VISEZ & CLIQUEZ" ,
     
     // (chyron3.png)
     "chyronNothing"      : "WAAAA, CE N'EST *RIEN*" ,
@@ -104,4 +104,5 @@ var textStrings_FR = {
     
 };
 
-var textStrings = textStrings_FR
+var textStrings = textStrings_FR;
+var language = "FR";
