@@ -3,12 +3,12 @@
 ///////////////////////////////////
 var textStrings_FR = {
     // Act 1
-    "niceHat"              : "Ooh quel joli chapeau"                                            ,
+    "niceHat"              : "Ooh ! 🎩 Quel joli chapeau"                                            ,
     "outtaHere"            : "Aller, dégage de là !"                                            ,
     "getARoom"             : "BEURK, trouvez vous une chambre"                                  ,
     "notCoolAnymore"       : "Les chapeaux ne sont plus à la mode"                              ,
     "tvOnTv"               : "Une télé...A la télé !"                                           ,
-    "cricky"               : "Petit criquet <3"                                                 ,
+    "cricky"               : "Petit criquet 💚"                                                 ,
     "tooManyCrickets"      : "ok, trop de criquets !"                                           ,
     "normalPeep"           : "c'est juste un gars normal"                                       ,
     "normalPeeps"          : "simplement des gars normaux"                                      ,
@@ -17,25 +17,25 @@ var textStrings_FR = {
     // Act 2
     "crazySquareAttacks"   : "ATTAQUE D'UN CARRÉ FOU"                                                ,
     "justMissed"           : "oooooh, raté"                                                          ,
-    "somethingInteresting" : "(tu dois les prendre en train de faire *quelque chose* d'intéressant)" ,
-    "whoIsScreaming"       : "(tu dois prendre celui qui leurs cri dessus)"                          ,
-    "circleFearsSquares"   : "LES CERCLES SONT EFFRAYES PAR LES CARRES"                              ,
-    "whoScaresThem"        : "(tu dois aussi prendre *celui* qui les terrorise)"                     ,
-    "areTheyScared"        : "(tu dois les prendre *en train d'être* terrorisés par un carré)"       , // not used
+    "somethingInteresting" : "(Vise quelque chose d'intéressant)" ,
+    "whoIsScreaming"       : "Vise celui qui leurs cri dessus"                          ,
+    "circleFearsSquares"   : "LES CERCLES ONT PEUR DES CARRES"                              ,
+    "whoScaresThem"        : "Vise celui qui les terrorise)"                     ,
+    "areTheyScared"        : "Prend aussi les terrorisés par le carré)"       , // not used
     "squaresSnubCircles"   : "LES CARRES SNOBENT LES RONDS"                                          ,
-    "areTheySnubbed"       : "(tu dois les prendre *pendant* qu'ils snobent un cercle)"              , // not used
-    "everyoneHates"        : "TOUT LE MONDE DÉTESTE TOUT LE MONDE !!1!"                              ,
+    "areTheySnubbed"       : "Clique *pendant* qu'ils snobent un cercle"              , // not used
+    "everyoneHates"        : "TOUT LE MONDE DÉTESTE TOUT LE MONDE !!!"                              ,
     "almostEveryoneHates"  : "PRESQUE TOUT LE MONDE DÉTESTE TOUT LE MONDE ..."                       ,
     "squaresHateCircles"   : "LES CARRÉS DÉTESTENT LES CERCLES"                                      ,
     "circlesHateSquares"   : "LES CERCLES DÉTESTENT LES CARRÉS"                                      ,
-    "areTheyYelling"       : "(tu dois les prendre en train *d'hurler* entre eux)"                   , // not used
+    "areTheyYelling"       : "Clique quand il *hurle* entre eux)"                   , // not used
     "nerdsNow"             : "que font ces intellos en ce moment"                                    ,
     "schockedPeep"         : "pourquoi ce peep est choqué?"                                          ,
     "whatever"             : "peu importe"                                                           ,
     
     // Act 3
     "ellipsis"             : ". . ."                                                                ,
-    "coolNoMore"           : "les chapeaux ne sont plus à la mode, vous ne le savez pas?"           ,
+    "coolNoMore"           : "les chapeaux sont démodés, vous ne le savez pas?"           ,
     "beScared"             : "SOIS TERRORISÉ, SOIS EN COLÈRE."                                      ,
     
     // MANIFESTO
@@ -53,7 +53,7 @@ var textStrings_FR = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "Temps de jeu: 5 minutes" ,
-    "warning"            : "Attention: Scènes de dénigrement et violence.\n Ce programme s'adresse à un public averti." ,
+    "warning"            : "Attention: Dénigrement et violence\n Ce programme s'adresse à un public averti" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "VISEZ & CLIQUEZ" ,
@@ -66,10 +66,10 @@ var textStrings_FR = {
     "NickyCase"          : "Ioanis Manzano" ,
     
     // (credits0002.png)
-    "manyThanks"         : "mille mercis à mes testeurs:" ,
+    "manyThanks"         : "mille mercis à tous:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "et à mes soutiens sur Patreons:" ,
+    "patreonSupporters"  : "et aux soutiens du codeur sur Patreons:" ,
     
     // (credits0007.png)
     "lastButNotLeast"    : "et pour finir," ,
